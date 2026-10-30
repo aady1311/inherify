@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# uploaded files (user documents)
+/uploads/*
+!/uploads/.gitkeep
+
+# env
+.env
+
+# debug
+npm-debug.log*
+
+# misc
+.DS_Store
